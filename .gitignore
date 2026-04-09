@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# helper / build artifacts
+dkt-raw.txt
+dkt-parsed.json
+dkt-image-map.json
+handbook-raw.txt
